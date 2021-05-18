@@ -1,0 +1,7 @@
+E:\learnIT\Module2\learnC#\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.exe.config
+E:\learnIT\Module2\learnC#\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.exe
+E:\learnIT\Module2\learnC#\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.pdb
+E:\learnIT\Module2\learnC#\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csprojAssemblyReference.cache
+E:\learnIT\Module2\learnC#\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.CoreCompileInputs.cache
+E:\learnIT\Module2\learnC#\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.exe
+E:\learnIT\Module2\learnC#\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.pdb
